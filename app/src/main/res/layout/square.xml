@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/color2"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:gravity="center"
+            android:padding="5dp"
+            android:shadowColor="#8188C8"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="5"
+            android:text="@string/app_name"
+            android:textAllCaps="true"
+            android:textColor="@drawable/pressed"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</layout>

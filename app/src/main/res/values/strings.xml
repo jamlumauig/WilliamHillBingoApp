@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">William Hill Bingo App</string>
+    <string name="title_home">Questions</string>
+    <string name="title_types">Types</string>
+    <string name="title_guides">Guides</string>
+    <string name="title_about">About</string>
+
+</resources>

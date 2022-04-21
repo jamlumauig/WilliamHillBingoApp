@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114990035860",
+    "project_id": "william-hill-bingo-app",
+    "storage_bucket": "william-hill-bingo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114990035860:android:b823096331d9f91ddbd581",
+        "android_client_info": {
+          "package_name": "jam.rs.wllmhllbngpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114990035860-ttqi6argit28ci98resfud3d59aiuk8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXS3OLsb8vkdJ8ta63s866n5SsGvaNqyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114990035860-ttqi6argit28ci98resfud3d59aiuk8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
